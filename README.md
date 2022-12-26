@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/> <a href="https://www.linkedin.com/in/kevin-douglas-4a8b5273/">Cybersecurity Professional</a>
+<h1>Hi, I'm Kevin! <br/> <a href="https://www.linkedin.com/in/kevin-douglas-4a8b5273/">IT Professional</a>
   
 <h2>👨‍💻 Cloud/Cyber Security Projects:</h2>
 
