@@ -14,7 +14,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
-<h2> Certifications </h2>
+<h2>📜 Certifications </h2>
   
   <b>AWS</b>
   
@@ -34,7 +34,7 @@
   
     -CompTIA Security + CE
   
-<h2>Clearance</h2>
+<h2>🔏Clearance</h2>
   
   <b>PUBLIC TRUST</B>
   
