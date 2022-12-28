@@ -5,7 +5,7 @@
   
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/cybergrizz/Azure_Sentinel_Failed_GEO_RDP)
   - [Active Directory Home Lab with 1k user creation](https://github.com/cybergrizz/Active-Directory-1kuser-Home-Lab/tree/main)
   
   
