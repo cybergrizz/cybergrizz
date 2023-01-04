@@ -8,7 +8,7 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/cybergrizz/Azure_Sentinel_Failed_GEO_RDP)
   - [Active Directory Home Lab with 1k user creation](https://github.com/cybergrizz/Active-Directory-1kuser-Home-Lab/tree/main)
   
-- <b>Aure</b>
+- <b>Azure</b>
   - [Serverless Resume API](https://github.com/cybergrizz/serverless-resume-api)
   
   
