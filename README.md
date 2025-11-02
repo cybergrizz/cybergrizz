@@ -15,24 +15,31 @@
 
   
 <h2>📜 Certifications </h2>
-  
+
+  <b>ISC2</b>
+
+    -CCPS (In Progress)
+    
+    -SSCP (In progress)
+    
   <b>AWS</b>
   
-    -Cloud Practitioner
+    -Cloud Practitioner (Expired)
   
-    -Solutions Architect Associate
-  
-    -Developer Associate (in progress)
+    -Solutions Architect Associate (Expired)
+
+    -Security Specialty (In progress)
   
   <b>Azure</b>
   
-    -Cloud Fundamentals
+    -Cloud Fundamentals (Expired)
   
-    -Administrator Associate (in progress)
+    -Administrator Associate (In progress)
   
   <b>Security</b>
   
-    -CompTIA Security + CE
+    -CompTIA Security + CE (Expired)
+    
   
 <h2>🔏Clearance</h2>
   
