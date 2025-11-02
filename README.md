@@ -18,7 +18,7 @@
 
   <b>ISC2</b>
 
-    -CCPS (In Progress)
+    -CCSP (In Progress)
     
     -SSCP (In progress)
     
