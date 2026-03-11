@@ -32,7 +32,7 @@
   
   <b>Azure</b>
   
-    -Cloud Fundamentals (Expired)
+    -Cloud Fundamentals
   
     -Administrator Associate (In progress)
   
